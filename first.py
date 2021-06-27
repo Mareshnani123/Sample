@@ -1,3 +1,5 @@
+'''This is a practical program
+for python to work on all variables and dtatypes'''
 #print("hello world")
 #name='maresh'
 #print(name)
